@@ -76,10 +76,9 @@ I love blending **creativity with code**, transforming **ideas into reality**! �
 ---
 
 ### 📫 Connect With Me  
-📩 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🐦 Twitter: [Your Twitter Handle]  
-🌐 Portfolio: [Your Portfolio Website]  
+📩 Email: contact.piyumali@gmail.com  
+🔗 LinkedIn:  
+
 
 ---
 

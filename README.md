@@ -15,10 +15,10 @@ I'm a **dedicated developer and technology enthusiast** with a strong command of
 - Exploring **AI, ML, and Deep Learning for real-world applications**  
 
 ### 🎯 Expertise  
-💻 **Backend Development:** Server-side architecture, API design, Database optimization  
-🎨 **Frontend Development:** Responsive design, Modern frameworks, UI/UX implementation  
-🛠 **Tools & Technologies:** Full stack development, Version control, Cloud services  
-🎨 **Creative Suite:** Adobe Creative Cloud, UI/UX design, Digital content creation  
+💻 **Backend Development:** Database optimization  
+🎨 **Frontend Development:** Responsive design, UI/UX implementation  
+🛠 **Tools & Technologies:** Full stack development, Version control
+🎨 **Creative Suite:** UI/UX design 
 
 ### 👯 Let's Collaborate  
 - **Web Development, AI, and Innovative Tech Projects**  
